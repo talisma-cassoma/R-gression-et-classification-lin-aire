@@ -134,3 +134,7 @@ for (k=0;k<=N;k++)
 }
 }
 }
+
+/*
+pour avoir function d'apres la suite de nombres generés par l'algorithme on s'en sers de la math precisement du theoreme de suistes numeriques 
+*/
