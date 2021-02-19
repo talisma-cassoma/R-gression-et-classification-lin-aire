@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-//#include<conio.h>
+#include<conio.h>
 void saisie(float*,int);
 void affiche_vec(float*,int);
 void calcul_mat(float*,float*,float*,int,int);
