@@ -2,7 +2,7 @@
 
 Le modèle de régression le plus connu est le modèle de régression linéaire.
 
-Lorsque le modèle n'est pas linéaire, on peut effectuer une régression approchée par des algorithmes itératifs, on parle de <a hef="https://github.com/talisma-cassoma/The-method-of-least-squares-on-Matlab.git">régression non linéaire</a>.
+Lorsque le modèle n'est pas linéaire, on peut effectuer une régression approchée par des algorithmes itératifs, on parle de <a href="https://github.com/talisma-cassoma/The-method-of-least-squares-on-Matlab.git">régression non linéaire</a>.
 
 Si on s'intéresse au quantile conditionnel de la distribution de la variable aléatoire 
 y
