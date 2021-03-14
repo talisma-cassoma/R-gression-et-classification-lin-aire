@@ -15,16 +15,23 @@ Si la variable expliquée est une variable aléatoire binomiale, il est courant 
 Si la forme fonctionnelle de la régression est inconnue, on peut utiliser un modèle de régression non paramétrique.
 
 
-
-##regression linear
-
-Le modèle de régression linéaire est souvent estimé par la <a href="https://github.com/talisma-cassoma/The-method-of-least-squares-on-Matlab">methode de moindre carrés</a>  mais il existe aussi de nombreuses autres méthodes pour estimer ce modèle. On peut par exemple estimer le modèle par maximum de vraisemblance, par la methodes de moindres deviations ou encore par inférence bayésienne.
-
 le probleme de la Regression linaire cest qu'elle ne décrit que des relations(funtions) lineaires, ça parce que beaucoup des relations entre features et labels ne sont pas lineaires, et souvent meme les labels ne sont pas des nombres 
 c'est donc pour ça qu'on a besoin du concept de <strong>RESEAU DE NEURONES</strong> 
 
-   ## Regression lineaire 
-   
+   ## Regression linear
+
+Le modèle de régression linéaire est souvent estimé par la <a href="https://github.com/talisma-cassoma/The-method-of-least-squares-on-Matlab">methode de moindre carrés</a>  mais il existe aussi de nombreuses autres méthodes pour estimer ce modèle. On peut par exemple estimer le modèle par maximum de vraisemblance, par la methodes de moindres deviations ou encore par inférence bayésienne.
+
+
+   ## Regression non lineaire 
+
+voit-ci quelques Algorithmes de résolution
+On utilise des algorithmes itératifs :
+
+* algorithme de Gauss-Newton ;
+* algorithme de Levenberg-Marquardt(Son application principale est la régression au travers de la méthode des moindres carrés);
+* algorithme du gradient.
+
    
    ## Classification lineaire
 
