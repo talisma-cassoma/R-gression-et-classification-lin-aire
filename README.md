@@ -32,6 +32,5 @@ On utilise des algorithmes itératifs :
 * algorithme de Levenberg-Marquardt(Son application principale est la régression au travers de la méthode des moindres carrés);
 * algorithme du gradient.
 
-   
-   ## Classification lineaire
+## Classification lineaire
 
